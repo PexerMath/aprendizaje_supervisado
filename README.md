@@ -11,3 +11,8 @@ Cada proyecto en este repositorio sigue una estructura consistente, que incluye 
 - Un archivo `requirements.txt` con las dependencias necesarias para ejecutar el proyecto.
   
 ### Proyectos
+- regresion
+  
+  - `AS2024_01_regresion_lineal_simple`
+  
+    El objetivo de este proyecto es construir un modelo de regresión lineal simple para predecir el salario de los empleados en función de sus años de experiencia.
