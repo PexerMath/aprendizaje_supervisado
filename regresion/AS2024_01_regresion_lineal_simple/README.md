@@ -33,14 +33,15 @@ Este proyecto tiene como objetivo construir un modelo de **regresión lineal sim
    
    Puedes instalar las dependencias ejecutando:
    ```bash
-   pip install -r requirements.txt
-
+       pip install -r requirements.txt
+   ```
 ## **Estructura del Proyecto**
+```
    ├── README.md                   # Descripción general del proyecto  
    ├── prediccion_salario.ipynb    # Código fuente del proyecto en Jupyter Notebook  
    ├── datasets/                   # Datos de entrada (contiene el conjunto de datos CSV de salarios)  
    └── requirements.txt            # Archivo con las dependencias necesarias para el proyecto
-
+```
 ## **Resultados**
 
 El modelo de regresión lineal simple logró un **\( R^2 \)** de aproximadamente 0.902, lo que indica que el modelo explica el 90.2% de la variabilidad en los salarios en función de los años de experiencia. Las métricas de error muestran un **RMSE** de 7,059.04 unidades monetarias, lo que sugiere que el modelo tiene un error relativamente bajo en las predicciones.
